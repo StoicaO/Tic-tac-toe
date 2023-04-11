@@ -1,0 +1,15 @@
+#restart {
+    text-align: center;
+}
+
+
+.box {
+    font-size: 50px;
+    background: purple;
+    height: 100px;
+    width: 100px;
+    display: fex;
+    justify-content: center;
+    align-items: center;
+}
+
